@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+#margenes{
+	margin: 50px;
+}
+#margenes-tarjetas{
+	margin-top: 20px;
+}
+@media screen and (max-width: 991px) {
+	#lista {
+	  display: none;
+	}
+}
